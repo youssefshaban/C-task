@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
  
- الفكرة في انك تستخدم variable واحد هوا التعريف بتاعها may change
+ الفكرة في انك تستخدم
     int x;
  هنا x بواحد
     x = 1;
@@ -17,7 +17,8 @@
  */
 
 int main (){
-int input, max,min;
+int input;// دا اللي هنستخدمه
+int max,min;
 
 
 //get the first number
