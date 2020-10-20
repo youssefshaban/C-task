@@ -24,6 +24,8 @@ int max,min;
 //get the first number
 printf("enter the number: ");
 scanf("%d",&input);
+	max = input ;
+	min = input ;
 
 // check for max and min number
 if (input>max){
